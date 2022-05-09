@@ -1,21 +1,21 @@
 using System;
+using UnityEngine;
+using System.Numerics;
 using System.Collections;
 using System.Collections.Generic;
-using System.Numerics;
-using UnityEngine;
 using Vector2 = UnityEngine.Vector2;
 using Vector3 = UnityEngine.Vector3;
 
 public class Move : MonoBehaviour {
-    private  Rigidbody2D _rigidbody2D;
+    private  Rigidbody2D rigidbody2D;
     private float izqOder;
     private bool enSuelo;
-    private Animator _animator;
+    private Animator animator;
    
     
     void Start() {
-        _rigidbody2D = GetComponent<Rigidbody2D>();
-        _animator = GetComponent<Animator>();
+        rigidbody2D = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
       
@@ -26,9 +26,9 @@ public class Move : MonoBehaviour {
         else if (izqOder > 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 0.0f);
         
         
-        _animator.SetBool("running", izqOder != 0.0f);
-        _animator.SetBool("jump", enSuelo ==false);
-        _animator.SetBool("fall", enSuelo != true);
+        animator.SetBool("running", izqOder != 0.0f);
+        animator.SetBool("jump", enSuelo ==false);
+        animator.SetBool("fall", enSuelo != true);
         Debug.DrawRay(transform.position, Vector3.down * 0.45f, Color.red);
         if (Physics2D.Raycast(transform.position, Vector3.down, 0.45f)) 
         {
@@ -43,10 +43,10 @@ public class Move : MonoBehaviour {
     }
 
     private void Salto() {
-        _rigidbody2D.AddForce(Vector2.up * 490.00f);
+        rigidbody2D.AddForce(Vector2.up * 260.00f);
     }
 
     private void FixedUpdate() {
-        _rigidbody2D.velocity = new Vector2(izqOder*2.8f, _rigidbody2D.velocity.y);
+        rigidbody2D.velocity = new Vector2(izqOder*2.8f, rigidbody2D.velocity.y);
     }
 }
