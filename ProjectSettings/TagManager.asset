@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Suelo
   layers:
   - Default
   - TransparentFX
@@ -11,7 +12,7 @@ TagManager:
   - Enemies
   - Water
   - UI
-  - 
+  - Tierra
   - 
   - 
   - 
@@ -40,4 +41,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1150948611
+    locked: 0
+  - name: Suelo
+    uniqueID: 354487683
+    locked: 0
+  - name: Objetos
+    uniqueID: 2805018947
+    locked: 0
+  - name: Characters
+    uniqueID: 3624384861
     locked: 0
