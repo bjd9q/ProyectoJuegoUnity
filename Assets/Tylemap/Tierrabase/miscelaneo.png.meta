@@ -1,0 +1,3288 @@
+fileFormatVersion: 2
+guid: a7c9e7395e2d2d548b60ce9e7798f148
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5583241610120746741
+    second: miscelaneo_0
+  - first:
+      213: 8279880615608345601
+    second: miscelaneo_1
+  - first:
+      213: -8243421238436006530
+    second: miscelaneo_2
+  - first:
+      213: 1187589778428683479
+    second: miscelaneo_3
+  - first:
+      213: -8214116882711527112
+    second: miscelaneo_4
+  - first:
+      213: 6086583693837860348
+    second: miscelaneo_5
+  - first:
+      213: -8985993784208253691
+    second: miscelaneo_6
+  - first:
+      213: 8588768150341137714
+    second: miscelaneo_7
+  - first:
+      213: -3662445790198695761
+    second: miscelaneo_8
+  - first:
+      213: 5016942974693003430
+    second: miscelaneo_9
+  - first:
+      213: -4630144840946278862
+    second: miscelaneo_10
+  - first:
+      213: -1381517926621170258
+    second: miscelaneo_11
+  - first:
+      213: 8821137195692203576
+    second: miscelaneo_12
+  - first:
+      213: -9141729730696801052
+    second: miscelaneo_13
+  - first:
+      213: -5406805780011696746
+    second: miscelaneo_14
+  - first:
+      213: -3907857668203312514
+    second: miscelaneo_15
+  - first:
+      213: -4609059767480271407
+    second: miscelaneo_16
+  - first:
+      213: 4752506336264653283
+    second: miscelaneo_17
+  - first:
+      213: -2572139196335923991
+    second: miscelaneo_18
+  - first:
+      213: 7193532603256172674
+    second: miscelaneo_19
+  - first:
+      213: -8823108111354275069
+    second: miscelaneo_20
+  - first:
+      213: -7098931407548227728
+    second: miscelaneo_21
+  - first:
+      213: -3003895933701615192
+    second: miscelaneo_22
+  - first:
+      213: -1366865892371711167
+    second: miscelaneo_23
+  - first:
+      213: -2172807405162898601
+    second: miscelaneo_24
+  - first:
+      213: -4418093362772375049
+    second: miscelaneo_25
+  - first:
+      213: -168668239107016535
+    second: miscelaneo_26
+  - first:
+      213: -1819377876966390744
+    second: miscelaneo_27
+  - first:
+      213: -2715583112381746955
+    second: miscelaneo_28
+  - first:
+      213: -1606514844588926708
+    second: miscelaneo_29
+  - first:
+      213: -3825439809640365329
+    second: miscelaneo_30
+  - first:
+      213: -9199292261248374694
+    second: miscelaneo_31
+  - first:
+      213: 3023435422748382314
+    second: miscelaneo_32
+  - first:
+      213: -1464999686069395818
+    second: miscelaneo_33
+  - first:
+      213: 3600132498553310075
+    second: miscelaneo_34
+  - first:
+      213: 1933873570598543045
+    second: miscelaneo_35
+  - first:
+      213: -4631240410801968061
+    second: miscelaneo_36
+  - first:
+      213: 4180478451639565284
+    second: miscelaneo_37
+  - first:
+      213: -6619100337799334112
+    second: miscelaneo_38
+  - first:
+      213: 8247156574471214380
+    second: miscelaneo_39
+  - first:
+      213: -2668401889955510744
+    second: miscelaneo_40
+  - first:
+      213: -5277004881179468923
+    second: miscelaneo_41
+  - first:
+      213: -4174467604709106081
+    second: miscelaneo_42
+  - first:
+      213: -1434045156122348950
+    second: miscelaneo_43
+  - first:
+      213: -421972093338751139
+    second: miscelaneo_44
+  - first:
+      213: 1997720778828862035
+    second: miscelaneo_45
+  - first:
+      213: 1046753899829373091
+    second: miscelaneo_46
+  - first:
+      213: -6052662052607673624
+    second: miscelaneo_47
+  - first:
+      213: -6441239280969306651
+    second: miscelaneo_48
+  - first:
+      213: -902293814191601998
+    second: miscelaneo_49
+  - first:
+      213: 4769057717277000133
+    second: miscelaneo_50
+  - first:
+      213: 5654586633426680151
+    second: miscelaneo_51
+  - first:
+      213: 9018705048885281744
+    second: miscelaneo_52
+  - first:
+      213: 1949205221169850661
+    second: miscelaneo_53
+  - first:
+      213: -5075958641903919507
+    second: miscelaneo_54
+  - first:
+      213: 2994912470790855323
+    second: miscelaneo_55
+  - first:
+      213: -980391392816631461
+    second: miscelaneo_56
+  - first:
+      213: 6012592182343004387
+    second: miscelaneo_57
+  - first:
+      213: 4577931817636553785
+    second: miscelaneo_58
+  - first:
+      213: 559954019712752507
+    second: miscelaneo_59
+  - first:
+      213: 1438599318075671497
+    second: miscelaneo_60
+  - first:
+      213: -7760714302412194737
+    second: miscelaneo_61
+  - first:
+      213: 8081265408128378605
+    second: miscelaneo_62
+  - first:
+      213: -3522792624304090258
+    second: miscelaneo_63
+  - first:
+      213: -5818758992730700673
+    second: miscelaneo_64
+  - first:
+      213: 8052829156959078024
+    second: miscelaneo_65
+  - first:
+      213: -3687083279846428804
+    second: miscelaneo_66
+  - first:
+      213: 4417397713325024227
+    second: miscelaneo_67
+  - first:
+      213: -3850341946632335720
+    second: miscelaneo_68
+  - first:
+      213: 706028047811271264
+    second: miscelaneo_69
+  - first:
+      213: -8248896697930041576
+    second: miscelaneo_70
+  - first:
+      213: 7214166344550479482
+    second: miscelaneo_71
+  - first:
+      213: 6744112079794650736
+    second: miscelaneo_72
+  - first:
+      213: -6497391579286439252
+    second: miscelaneo_73
+  - first:
+      213: 4757033822037862808
+    second: miscelaneo_74
+  - first:
+      213: -7671327906049126335
+    second: miscelaneo_75
+  - first:
+      213: 8948426638297031530
+    second: miscelaneo_76
+  - first:
+      213: 5372260308999285011
+    second: miscelaneo_77
+  - first:
+      213: -7913794120517555195
+    second: miscelaneo_78
+  - first:
+      213: 4507304432529746139
+    second: miscelaneo_79
+  - first:
+      213: -2726799402893639300
+    second: miscelaneo_80
+  - first:
+      213: -6593819612948371335
+    second: miscelaneo_81
+  - first:
+      213: -1476096233995275343
+    second: miscelaneo_82
+  - first:
+      213: 459133110870761981
+    second: miscelaneo_83
+  - first:
+      213: 1138503500934773443
+    second: miscelaneo_84
+  - first:
+      213: -202858310581986322
+    second: miscelaneo_85
+  - first:
+      213: 8623566332403264642
+    second: miscelaneo_86
+  - first:
+      213: -6519772885163355354
+    second: miscelaneo_87
+  - first:
+      213: 142696624371532872
+    second: miscelaneo_88
+  - first:
+      213: -2059797004649354030
+    second: miscelaneo_89
+  - first:
+      213: 6133417194898463835
+    second: miscelaneo_90
+  - first:
+      213: 322794434296250961
+    second: miscelaneo_91
+  - first:
+      213: -2169668102259967646
+    second: miscelaneo_92
+  - first:
+      213: 530165402380493328
+    second: miscelaneo_93
+  - first:
+      213: 5934327948321893784
+    second: miscelaneo_94
+  - first:
+      213: 4232841417458040389
+    second: miscelaneo_95
+  - first:
+      213: -3071690036530010073
+    second: miscelaneo_96
+  - first:
+      213: 3533776077934375361
+    second: miscelaneo_97
+  - first:
+      213: -4714988717811740212
+    second: miscelaneo_98
+  - first:
+      213: 1610115254405630720
+    second: miscelaneo_99
+  - first:
+      213: 7703948718457526884
+    second: miscelaneo_100
+  - first:
+      213: -4754699805596521297
+    second: miscelaneo_101
+  - first:
+      213: -7662155042706651450
+    second: miscelaneo_102
+  - first:
+      213: 8744034329298534319
+    second: miscelaneo_103
+  - first:
+      213: -8217253196127132763
+    second: miscelaneo_104
+  - first:
+      213: -3414344139718668132
+    second: miscelaneo_105
+  - first:
+      213: -1492288146700605892
+    second: miscelaneo_106
+  - first:
+      213: -7371653500550956973
+    second: miscelaneo_107
+  - first:
+      213: -8419942324574793024
+    second: miscelaneo_108
+  - first:
+      213: -7885159718786492601
+    second: miscelaneo_109
+  - first:
+      213: 5642210317166144285
+    second: miscelaneo_110
+  - first:
+      213: -32440175562394033
+    second: miscelaneo_111
+  - first:
+      213: 5819034530299574094
+    second: miscelaneo_112
+  - first:
+      213: 799367944075539774
+    second: miscelaneo_113
+  - first:
+      213: 3131862921805087
+    second: miscelaneo_114
+  - first:
+      213: 8299635354051039423
+    second: miscelaneo_115
+  - first:
+      213: 1635685424544306681
+    second: miscelaneo_116
+  - first:
+      213: -2918851448834849014
+    second: miscelaneo_117
+  - first:
+      213: 2487509088898331259
+    second: miscelaneo_118
+  - first:
+      213: -4289758570715011388
+    second: miscelaneo_119
+  - first:
+      213: -6766937597835924398
+    second: miscelaneo_120
+  - first:
+      213: 2278049151129728042
+    second: miscelaneo_121
+  - first:
+      213: 3678837265453083959
+    second: miscelaneo_122
+  - first:
+      213: 3400193866625804678
+    second: miscelaneo_123
+  - first:
+      213: -2499949757926043723
+    second: miscelaneo_124
+  - first:
+      213: 2581023625069099162
+    second: miscelaneo_125
+  - first:
+      213: -4170193629813190953
+    second: miscelaneo_126
+  - first:
+      213: -8271208476682560445
+    second: miscelaneo_127
+  - first:
+      213: 6177871319477663584
+    second: miscelaneo_128
+  - first:
+      213: -8091682395118778647
+    second: miscelaneo_129
+  - first:
+      213: -2911275299197245372
+    second: miscelaneo_130
+  - first:
+      213: -3413976414290436347
+    second: miscelaneo_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: miscelaneo_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 628
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f65d62c9a8ab7d40800000000000000
+      internalID: 5583241610120746741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 660
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1046afb1d8b08e270800000000000000
+      internalID: 8279880615608345601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_2
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 654
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e757c152f0c799d80800000000000000
+      internalID: -8243421238436006530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 654
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d460228c9a2b7010800000000000000
+      internalID: 1187589778428683479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 628
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831c0762738910e80800000000000000
+      internalID: -8214116882711527112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 628
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdf3e61f93e77450800000000000000
+      internalID: 6086583693837860348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 628
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d166a53465b4380800000000000000
+      internalID: -8985993784208253691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 627
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235b543a02f613770800000000000000
+      internalID: 8588768150341137714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 628
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8f41255f06c2dc0800000000000000
+      internalID: -3662445790198695761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 628
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d7f8fd03cf9540800000000000000
+      internalID: 5016942974693003430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 642
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e1ac87ccb6ebfb0800000000000000
+      internalID: -4630144840946278862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 628
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea539ece3ccd3dce0800000000000000
+      internalID: -1381517926621170258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 630
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e18380b89fa6a70800000000000000
+      internalID: 8821137195692203576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 628
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e49031be3d022180800000000000000
+      internalID: -9141729730696801052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 628
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dbfd02aca27f4b0800000000000000
+      internalID: -5406805780011696746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_15
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 628
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a84fdc72084c9c0800000000000000
+      internalID: -3907857668203312514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 586
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd3bc2bf845900c0800000000000000
+      internalID: -4609059767480271407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 628
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e909dd355b44f140800000000000000
+      internalID: 4752506336264653283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 637
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecd989570ded4cd0800000000000000
+      internalID: -2572139196335923991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 628
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28076492acf84d360800000000000000
+      internalID: 7193532603256172674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 632
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b5cd76be50e8580800000000000000
+      internalID: -8823108111354275069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 618
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f59302f778b7d90800000000000000
+      internalID: -7098931407548227728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 609
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1997940940056d0800000000000000
+      internalID: -3003895933701615192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 586
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b369d76bae70de0800000000000000
+      internalID: -1366865892371711167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 586
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b5de15d23a8d1e0800000000000000
+      internalID: -2172807405162898601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 586
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9017f9e77cfa2c0800000000000000
+      internalID: -4418093362772375049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 586
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b2235125c8adf0800000000000000
+      internalID: -168668239107016535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 601
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824c63bd57540c6e0800000000000000
+      internalID: -1819377876966390744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 586
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0bf6c0c8f405ad0800000000000000
+      internalID: -2715583112381746955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 586
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0992e1b24384b9e0800000000000000
+      internalID: -1606514844588926708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 599
+        width: 41
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe28fbcd2ce49eac0800000000000000
+      internalID: -3825439809640365329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 586
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a586a47ad6c855080800000000000000
+      internalID: -9199292261248374694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 586
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6410468f7665f920800000000000000
+      internalID: 3023435422748382314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 587
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e56c32c864babe0800000000000000
+      internalID: -1464999686069395818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 594
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0c90ee6d36f130800000000000000
+      internalID: 3600132498553310075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 594
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceda0034cf76da10800000000000000
+      internalID: 1933873570598543045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_36
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 587
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce6bc32678abfb0800000000000000
+      internalID: -4631240410801968061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 544
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb62da00b040a30800000000000000
+      internalID: 4180478451639565284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_38
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 586
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0277dc0ff4b3424a0800000000000000
+      internalID: -6619100337799334112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_39
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 586
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25526c8539c37270800000000000000
+      internalID: 8247156574471214380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 578
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826883f6e9ee7fad0800000000000000
+      internalID: -2668401889955510744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 567
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b9b43f40054c6b0800000000000000
+      internalID: -5277004881179468923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 544
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e10fea4df4116c0800000000000000
+      internalID: -4174467604709106081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 544
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a623575478f391ce0800000000000000
+      internalID: -1434045156122348950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 544
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f6a67ed9ad42af0800000000000000
+      internalID: -421972093338751139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_45
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 544
+        width: 90
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d286c67459bb10800000000000000
+      internalID: 1997720778828862035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 502
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a59e3021d68e00800000000000000
+      internalID: 1046753899829373091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 523
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea35d87eef900ca0800000000000000
+      internalID: -6052662052607673624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_48
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 530
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed2888400f1c96a0800000000000000
+      internalID: -6441239280969306651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_49
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 549
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6c31a7e886a73f0800000000000000
+      internalID: -902293814191601998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 544
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c181afe9b81f2240800000000000000
+      internalID: 4769057717277000133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 552
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759b1157590297e40800000000000000
+      internalID: 5654586633426680151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_52
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 544
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d344d47570e82d70800000000000000
+      internalID: 9018705048885281744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_53
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 551
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296a2242d7fc0b10800000000000000
+      internalID: 1949205221169850661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e1ebe32829e89b0800000000000000
+      internalID: -5075958641903919507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 544
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a50e24601109920800000000000000
+      internalID: 2994912470790855323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 523
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51705af833f462f0800000000000000
+      internalID: -980391392816631461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 523
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e078d7dbb4017350800000000000000
+      internalID: 6012592182343004387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_58
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 502
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9346f24bbb4188f30800000000000000
+      internalID: 4577931817636553785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_59
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 502
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bd783d63b55c700800000000000000
+      internalID: 559954019712752507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_60
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 481
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c30500357ee6f310800000000000000
+      internalID: 1438599318075671497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 502
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c7d61c5776c4490800000000000000
+      internalID: -7760714302412194737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_62
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 460
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e423821c662070800000000000000
+      internalID: 8081265408128378605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_63
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 458
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e631df2d5c68c1fc0800000000000000
+      internalID: -3522792624304090258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_64
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 460
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744da4768d9f3fa0800000000000000
+      internalID: -5818758992730700673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_65
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 460
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8864479d37561cf60800000000000000
+      internalID: 8052829156959078024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 460
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fa87fba49d4dcc0800000000000000
+      internalID: -3687083279846428804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_67
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 481
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36c5ed0dfbd4d30800000000000000
+      internalID: 4417397713325024227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_68
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 481
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e81374666d09ac0800000000000000
+      internalID: -3850341946632335720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_69
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 460
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ad04fc4c05cc900800000000000000
+      internalID: 706028047811271264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_70
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 460
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817bcf26828068d80800000000000000
+      internalID: -8248896697930041576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_71
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 460
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76728d611edd1460800000000000000
+      internalID: 7214166344550479482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 442
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eb4996436e79d50800000000000000
+      internalID: 6744112079794650736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 418
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa740688c0a4d5a0800000000000000
+      internalID: -6497391579286439252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_74
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 434
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899e51bae01640240800000000000000
+      internalID: 4757033822037862808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_75
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 439
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1409664f9e7f98590800000000000000
+      internalID: -7671327906049126335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_76
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 442
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a636652ed923f2c70800000000000000
+      internalID: 8948426638297031530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_77
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 397
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31925de994a1e8a40800000000000000
+      internalID: 5372260308999285011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 397
+        width: 5
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ce9fc2d2e8c2290800000000000000
+      internalID: -7913794120517555195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 397
+        width: 5
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8aa7b20892d8e30800000000000000
+      internalID: 4507304432529746139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 418
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7107c8e366782ad0800000000000000
+      internalID: -2726799402893639300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_81
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 418
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97865316ffb0e74a0800000000000000
+      internalID: -6593819612948371335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_82
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 425
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b37b6ebb4ad38be0800000000000000
+      internalID: -1476096233995275343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1621ab12b2f5600800000000000000
+      internalID: 459133110870761981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_84
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca71cce6e6cccf00800000000000000
+      internalID: 1138503500934773443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_85
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb560af07d4f2df0800000000000000
+      internalID: -202858310581986322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_86
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 424
+        width: 61
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c2ae3c3ef0da770800000000000000
+      internalID: 8623566332403264642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_87
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 421
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6235d9baa1d1585a0800000000000000
+      internalID: -6519772885163355354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_88
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 424
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440056e2d5faf100800000000000000
+      internalID: 142696624371532872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_89
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 423
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc267c99812a63e0800000000000000
+      internalID: -2059797004649354030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_90
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 418
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c123941764e1550800000000000000
+      internalID: 6133417194898463835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_91
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 418
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15283b7e3dbca7400800000000000000
+      internalID: 322794434296250961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_92
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 418
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2697c4c3b5ac3e1e0800000000000000
+      internalID: -2169668102259967646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 403
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0126711ef968b5700800000000000000
+      internalID: 530165402380493328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_94
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 397
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d266cd3d7fa5250800000000000000
+      internalID: 5934327948321893784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_95
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 397
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eb526b7d21eba30800000000000000
+      internalID: 4232841417458040389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_96
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 397
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728a580bf2a2f55d0800000000000000
+      internalID: -3071690036530010073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_97
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 384
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c13d01ce9e7a0130800000000000000
+      internalID: 3533776077934375361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_98
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 399
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc15bd20ebef09eb0800000000000000
+      internalID: -4714988717811740212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_99
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 400
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b094a0b47485610800000000000000
+      internalID: 1610115254405630720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_100
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 381
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a9c7bca8ce9ea60800000000000000
+      internalID: 7703948718457526884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 382
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facecc1e7b9e30eb0800000000000000
+      internalID: -4754699805596521297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_102
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 382
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c68081a59e8aa590800000000000000
+      internalID: -7662155042706651450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_103
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 335
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faff8a505ec095970800000000000000
+      internalID: 8744034329298534319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 335
+        width: 8
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3266741c376fd80800000000000000
+      internalID: -8217253196127132763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_105
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 335
+        width: 8
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d12b4810dd90d0800000000000000
+      internalID: -3414344139718668132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_106
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 380
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36626946d35a4be0800000000000000
+      internalID: -1492288146700605892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_107
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 379
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358356ca230a2b990800000000000000
+      internalID: -7371653500550956973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 370
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2517a011b562b80800000000000000
+      internalID: -8419942324574793024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_109
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 272
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747138c5309429290800000000000000
+      internalID: -7885159718786492601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_110
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 364
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b6bb6c3682d4e40800000000000000
+      internalID: 5642210317166144285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_111
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 363
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46f62b05dfbc8ff0800000000000000
+      internalID: -32440175562394033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_112
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 335
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47fc32231d51c050800000000000000
+      internalID: 5819034530299574094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_113
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 335
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35f47fe8ece71b00800000000000000
+      internalID: 799367944075539774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_114
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 335
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d70f8a9602b0000800000000000000
+      internalID: 3131862921805087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_115
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 314
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb05c73916a3e2370800000000000000
+      internalID: 8299635354051039423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_116
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 314
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f55f363a3f13b610800000000000000
+      internalID: 1635685424544306681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_117
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 314
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07801072182e77d0800000000000000
+      internalID: -2918851448834849014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_118
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 314
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7237534658658220800000000000000
+      internalID: 2487509088898331259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_119
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 314
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6285cde47b774c0800000000000000
+      internalID: -4289758570715011388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_120
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 272
+        width: 79
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c21c78b120712a0800000000000000
+      internalID: -6766937597835924398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_121
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 314
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b7f122a14d9f10800000000000000
+      internalID: 2278049151129728042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_122
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 314
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73decc9600bdd0330800000000000000
+      internalID: 3678837265453083959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_123
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 314
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68961b38e4aef2f20800000000000000
+      internalID: 3400193866625804678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 314
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf8e72c0f46e4dd0800000000000000
+      internalID: -2499949757926043723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_125
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 314
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987229ef43a1d320800000000000000
+      internalID: 2581023625069099162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_126
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 314
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de43620dfe7026c0800000000000000
+      internalID: -4170193629813190953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_127
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 272
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cd22496b3c63d80800000000000000
+      internalID: -8271208476682560445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_128
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 272
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0673a89bb353cb550800000000000000
+      internalID: 6177871319477663584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_129
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 272
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c9a3bbb194bf80800000000000000
+      internalID: -8091682395118778647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_130
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 272
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448aafb3a821997d0800000000000000
+      internalID: -2911275299197245372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miscelaneo_131
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 272
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f18aa0a8e1f90d0800000000000000
+      internalID: -3413976414290436347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
